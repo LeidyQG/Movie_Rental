@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db":"mongodb+srv://ranaPankaj:P@nkaj897@ranadb-n8tb3.mongodb.net/test",
+  "db": "mongodb://localhost/cinema",
   "port": "3900",
   "requireAuth": true
 }
