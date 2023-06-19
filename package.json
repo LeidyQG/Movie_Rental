@@ -28,5 +28,8 @@
     "winston": "^3.9.0",
     "winston-mongodb": "^5.1.1"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "mongoose-transaction": "^0.0.3"
+  }
 }
